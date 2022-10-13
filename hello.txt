@@ -9,4 +9,4 @@ hello Git!hello Zhanhao!
 hello Git!hello Zhanhao! master.test
 hello Git!hello Zhanhao!
 hello Git!hello Zhanhao!
-hello Git!hello Zhanhao!
+hello Git!hello Zhanhao!hot-fix.test
